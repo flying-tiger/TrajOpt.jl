@@ -1,8 +1,6 @@
-# traj_opt
+# TrajOpt.jl
 
-Trajectory Optimizer for Boost-Glide Vehicles
-
-
+Trajectory Optimizer for Aerospace Vehicles
 
 [![Build Status](https://travis-ci.org/flying-tiger/TrajOpt.jl.svg?branch=master)](https://travis-ci.org/flying-tiger/TrajOpt.jl)
 
